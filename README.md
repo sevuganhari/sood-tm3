@@ -1,4 +1,4 @@
-#SOOD Tesla Model 3 - Front. Name Plate holder
+# SOOD Tesla Model 3 - Front. Name Plate holder
 ###Features
 
 - Simple holders that get attached to name plate.
@@ -6,6 +6,5 @@
 - Name plate acts as strength to hold space the printed holders.
 - More images on the way.
 
+###Image
 [![1 holder](https://github.com/sevuganhari/sood-tm3/blob/master/image.png?raw=true "1 holder")](https://github.com/sevuganhari/sood-tm3/blob/master/image.png?raw=true "1 holder")
-
-###End
