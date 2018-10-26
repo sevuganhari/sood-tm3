@@ -3,15 +3,25 @@
 ##### No one wants to drill holes on the front bumper to fix their license plate, or stick the license plate holder to it. There are ways around this to fix the license plate holder to grill below but many of them block airflow to vents behind them. The only option is to lift the license plate up and not touch the front bumper to keep it its good shape. I hope this does that.
 
 - 3D Print a pair of V1* (or) 3D print one V2. 
-- You should choose the appropriate material that suits fit for your use and taste. (I selected White Color, and used PLA for V1, ABS for V2.)
+- You should choose the appropriate material that suits fit for your use and taste. 
 - This is for Tesla Model 3 2017-2018 (currently), 
-- Gives a sufficient lift to name plate and allows airflow to vents behind the front bumper.
+- Gives a sufficient lift to name plate and allows airflow to vent behind the front bumper.
 - Print on any color to match your cars color.
-- V1 will need a  should allow aerodynamic flow of air around the lift handles, but not sure if this is a huge factor.
 
-- I dont have a printer at home, so i used service provided on https://www.3dhubs.com and paid not more than $30 per print. You can choose any 3D Printing service provider, and generate these models. (Definetly a good price 
-- You may have to drill holes by youself and find the right screw to fix holder & license plate to it. 
-- Will provide links to purchase of screw / nuts / bolts etc in the near future.
+### V2
+- Should provide good strength due to its design.
+- Each handle ends in a wider base that would prevent wobble even without nameplate. (unlike V1)
+
+### V1
+- V1 will allow free air flow around the lift handles, but not sure if this is a huge factor yet.
+- Though V1 looks good, support structures for 3D print may have to be provided to get a proper finish.
+- Relies on nameplate mounting to prevent wobble from side to side.
+
+### Material Choice & Printing
+- At 100 F and outdoor temps I would recommend V2 printed with ABS as a best solution for this.
+- I did not have a printer at home, so I used service provided on https://www.3dhubs.com and paid not more than $30 per print. You can choose any 3D Printing service provider, and generate these models. (Definitely a good price 
+- You may have to drill holes by yourself and find the right screw to fix holder & license plate to it. 
+- Will provide links to purchase of screw / nuts / bolts etc. in the near future.
 
 ### Image V2 - Product (Beta - Testing in progress)
 ![V2 Product](https://github.com/sevuganhari/sood-tm3/blob/master/v2/product.png?raw=true)
@@ -20,3 +30,4 @@
 #### WARNING - NOT A PERFECT FIT for Practical use.
 #### Print an additional 60mm x 10mm x 10mm spacer as a layer to prevent contact with front bumper.
 ![V1 Product](https://github.com/sevuganhari/sood-tm3/blob/master/v1/product.jpeg?raw=true)
+
