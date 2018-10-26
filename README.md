@@ -18,7 +18,7 @@
 - Relies on nameplate mounting to prevent wobble from side to side.
 
 ### Material Choice & Printing
-- At 100 F and outdoor temps I would recommend V2 printed with ABS as a best solution for this.
+- I would recommend V2 printed with ABS as a best solution for this.
 - I did not have a printer at home, so I used service provided on https://www.3dhubs.com and paid not more than $30 per print. You can choose any 3D Printing service provider, and generate these models. (Definitely a good price 
 - You may have to drill holes by yourself and find the right screw to fix holder & license plate to it. 
 - Will provide links to purchase of screw / nuts / bolts etc. in the near future.
