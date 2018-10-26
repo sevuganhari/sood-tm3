@@ -9,8 +9,9 @@
 - Print on any color to match your cars color.
 - V1 will need a  should allow aerodynamic flow of air around the lift handles, but not sure if this is a huge factor.
 
--- I dont have a printer at home, so i used service provided on https://www.3dhubs.com and paid not more than $30 per print. You can choose any 3D Printing service provider, and generate these models. (Definetly a good price 
--- you may have to drill holes by youself/
+- I dont have a printer at home, so i used service provided on https://www.3dhubs.com and paid not more than $30 per print. You can choose any 3D Printing service provider, and generate these models. (Definetly a good price 
+- You may have to drill holes by youself and find the right screw to fix holder & license plate to it. 
+- Will provide links to purchase of screw / nuts / bolts etc in the near future.
 
 ### Image V2 - Product (Beta - Testing in progress)
 ![V2 Product](https://github.com/sevuganhari/sood-tm3/blob/master/v2/product.png?raw=true)
