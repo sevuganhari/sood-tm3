@@ -5,7 +5,7 @@
 - 3D Print a pair of V1* (or) 3D print one V2. 
 - You should choose the appropriate material that suits fit for your use and taste. (I selected White Color, and used PLA for V1, ABS for V2.)
 - This is for Tesla Model 3 2017-2018 (currently), 
-- Gives a sufficient lift to name plate by preventing airflow to vents behind the front bumper.
+- Gives a sufficient lift to name plate and allows airflow to vents behind the front bumper.
 - Print on any color to match your cars color.
 - V1 will need a  should allow aerodynamic flow of air around the lift handles, but not sure if this is a huge factor.
 
