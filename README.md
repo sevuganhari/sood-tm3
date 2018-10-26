@@ -1,4 +1,4 @@
-# SOOD - Front license late holder for Tesla Model 3.
+# SOOD - Front license plate holder for Tesla Model 3.
 
 ##### No one wants to drill holes on the front bumper to fix their license plate, or stick the license plate holder to it. There are ways around this to fix the license plate holder to grill below but many of them block airflow to vents behind them. The only option is to lift the license plate up and not touch the front bumper to keep it its good shape. I hope this does that.
 
