@@ -4,7 +4,7 @@
 
 ### **_This component is engineered to connect to the front grill of Tesla Model 3. So be mindful of structural stability of the grill and your best judgement before deciding to print any of these 3D Models to be printed for your own use on a Tesla Model 3(2017/2018). This is an open source model, so feel free to experiment with this model and enhance it as needed for your use._**
 
-###### **_You can fork this and make better models. If you want to merge your changes, feel free to initiate pull request. _**
+###### **_You can fork this and make better models. If you want to merge your changes, feel free to initiate pull request._**
 
 - For printing this in 3D you can choose the appropriate material that suits fit for your use and taste. 
 - This is for Tesla Model 3 2017-2018 only 
