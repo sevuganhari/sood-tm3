@@ -1,12 +1,19 @@
 # SOOD - Front license plate holder for Tesla Model 3.
 
-##### No one wants to drill holes on the front bumper to fix their license plate, or stick the license plate holder to it. There are ways around this to fix the license plate holder to grill below but many of them block airflow to vents behind them. The only option is to lift the license plate up and not touch the front bumper to keep it its good shape. I hope this does that.
+##### This bumper license plate holder is designed as one possible option to mount license plate on Tesla Model 3.
 
-- 3D Print a pair of V1* (or) 3D print one V2. 
-- You should choose the appropriate material that suits fit for your use and taste. 
-- This is for Tesla Model 3 2017-2018 (currently), 
-- Gives a sufficient lift to name plate and allows airflow to vent behind the front bumper.
+### **_This component is engineered to connect to the front grill of Tesla Model 3. So be mindful of structural stability of the grill and your best judgement before deciding to print any of these 3D Models to be printed for your own use on a Tesla Model 3(2017/2018). This is an open source model, so feel free to experiment with this model and enhance it as needed for your use._**
+
+###### **_You can fork this and make better models. If you want to merge your changes, feel free to initiate pull request. _**
+
+- For printing this in 3D you can choose the appropriate material that suits fit for your use and taste. 
+- This is for Tesla Model 3 2017-2018 only 
+- Its designed to gives a sufficient lift to name plate and allows some airflow to vent behind the front bumper without being blocked by the license plate.
 - Print on any color to match your cars color.
+
+### V3
+- This is and enhancement on V2
+- Holes provided to avoid drilling. Designed to send 3mm dia screw.
 
 ### V2
 - Should provide good strength due to its design.
