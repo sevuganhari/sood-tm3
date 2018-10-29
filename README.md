@@ -12,8 +12,8 @@
 - Print on any color to match your cars color.
 
 ### V3
-- This is and enhancement on V2
-- Holes provided to avoid drilling. Designed to send 3mm dia screw.
+- This is an enhancement on V2
+- Holes are provided to avoid drilling. Designed to use 3mm dia screw.
 
 ### V2
 - Should provide good strength due to its design.
